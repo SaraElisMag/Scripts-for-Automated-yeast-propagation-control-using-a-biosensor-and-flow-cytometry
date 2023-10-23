@@ -1,1 +1,9 @@
-
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Magnusson"
+  given-names: "Sara"
+title: "Scripts for Automated yeast propagation control using a biosensor and flow cytometry"
+version: 1.0.0
+date-released: 2023-10-23
+url: "https://github.com/SaraElisMag/Scripts-for-Automated-yeast-propagation-control-using-a-biosensor-and-flow-cytometry/tree/main"
